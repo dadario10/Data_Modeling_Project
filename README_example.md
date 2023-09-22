@@ -1,8 +1,8 @@
-# Predicting Future Major League Baseball Stats
+# Selective Stock Market COVID-19 Pandemic vs. Actuality 
 
 ## Table of Contents 
 * [Overview](#overview)
-* [Aim](#aim)
+* [Purpose](#purpose)
 * [Technologies](#technologies)
 * [Data](#data)
 * [Analysis](#analysis)
@@ -12,9 +12,9 @@
 * [Team Members](#team-members)
 
 ## Overview 
-In this project we are going to study Baseball data from 2002 till 2022 to predict some important features which can help managers in making decisions and improve their team outcome. 
+In this project we created predictive models to predict the 'bounce-back' of stock price for Amazon, Netfix and Nikola stock Open price.  We compared the predictive models to the actual data for the same time period  
 
-## Aim
+## Purpose
  The aim of our study is to:
 * Extract, clean and pre-process data for models. 
 * Build a machine learning model to predict whether an MLB runner will be able to successfully steal a base based on various aspects.  
@@ -24,23 +24,27 @@ In this project we are going to study Baseball data from 2002 till 2022 to predi
 * Visualize previous baseball games. 
 
 ## Technologies 
-* Python 3.7.13
+* Python & Pandas
 * Jupyter Notebook 
-* Visual Studio 1.69.1
-* HTML/CSS 
-* Flask 
-* JavaScript 
+* Visual Studio
+* MySql Database 
+* xGBoost 
 
 ## Data
-### Data Source 
-The data was imported using `pybaseball` package, a Python package for baseball data analysis. This package scrapes Baseball Reference, Baseball Savant, and FanGraphs. It retrieves statcast data, pitching stats, batting stats, division standings/team records, awards data, and more. </br> 
-We used `from pybaseball import batting_stats` to import all batters stats, `from pybaseball import pitching_stats` to import all pitchers stats.
+### Data Source
+
+Three stocks The data was gathered from Yahoo Finance:
+
+* [Amazon](https://ca.finance.yahoo.com/quote/AMZN?p=AMZN&.tsrc=fin-srch)
+* [Netflix](https://ca.finance.yahoo.com/quote/NFLX?p=NFLX&.tsrc=fin-srch)
+* [Nikola](https://ca.finance.yahoo.com/quote/NKLA?p=NKLA&.tsrc=fin-srch)
+
+.
 
 ### Data Cleaning 
-To create batters DataFrame (See Table 1) we have chose games from 2007 to 2022 where the number of players' appearances is at least 200 times per year. 
-To create pitchers DataFrame (See Table 2) we have chose games from 2007 to 2022 for pitchers who have pitched 50+ innings. </br>
+The data . </br>
 </br>
-Finally, the data was stored on local database. 
+Finally, the data imported into a MySQL Database. 
 
 </br>
 <p align = "center">
@@ -143,10 +147,13 @@ At the end of this project, we were able to create a webpage where user can navi
 * Plot predicted values and calculated one for each player.
 
 ## Team Members
-* <a href="https://github.com/MireyNM"> Mireille Nehme</a>
-* <a href="https://github.com/nathalieouellette"> Nathalie Ouellette </a>
-* <a href="https://github.com/wyattbaldwin"> Wyatt Baldwin </a>
-* <a href="https://github.com/samuelvannoppen"> Samuel Van Noppen </a>
+* <a href="https://github.com/dadario10"> Dario Micucci</a>
+* <a href="https://github.com/"> Brett Chau-dang </a>
+* <a href="https://github.com/"> Justin Butler </a>
+* <a href="https://github.com/"> Rebeca Perez </a>
+* <a href="https://github.com/rbrennan55"> Ron Brennan </a>
+
+-30-
 
 
 
