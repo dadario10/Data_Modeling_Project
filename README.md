@@ -15,7 +15,7 @@
 In this project we created predictive models to predict the 'bounce-back' of stock price for Amazon, Netfix and Nikola stock prices.  We compared the predictive models to the actual data for the same time period  
 
 ## Purpose
- The aim of our study is to:
+The purpose of our study is to:
 * Extract, clean and pre-process data for models. 
 * Build multiple machine learning models to predict selective stock market stocks spanning COVID-19 global pandemic and predict the 'bounce back' of the stock vs. actual prefromance of the selective stocks. 
 * Compare each of the machine learning predictive models to the actual performance of the selected stocks. 
@@ -44,14 +44,18 @@ The data was downloaded from the above links as .csv files.  These .csv files we
 </br>
 The data for each stock was then extracted and converted into a panda dataframe.
 </br>
+</br>
 ![](images/AmazonSCNSHT.PNG)
 Fig 1 - Amazon
+</br>
 </br>
 ![](images/NetflixSCNSHT.PNG)
 Fig 2 - Netflix
 </br>
-![](images/NikolaCNSHT.PNG)
+</br>
+![](images/NikolaSCNSHT.PNG)
  Fig 3 - Nikola
+</br>
 </br>
 
 ## Models 
