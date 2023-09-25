@@ -20,8 +20,8 @@ In this project we created predictive models to predict the 'bounce-back' of sto
 * Build multiple machine learning models to predict selective stock market stocks spanning COVID-19 global pandemic and predict the 'bounce back' of the stock vs. actual prefromance of the selective stocks. 
 * Compare each of the machine learning predictive models to the actual performance of the selected stocks. 
 *  
-* Use a Tableau HTML, CSS and Flask to create a webpage and visualize models' prediction.
-* Visualize previous baseball games. 
+* Use a Tableau HTML, to visualize models' prediction.
+* Use video to assist in the visualization of the data. 
 
 ## Technologies 
 * Python & Pandas
