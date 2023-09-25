@@ -33,19 +33,17 @@ In this project we created predictive models to predict the 'bounce-back' of sto
 ## Data
 ### Data Source
 
-Three stocks The data was gathered from Yahoo Finance:
+Three stocks specific stocks were chosen - Amazon, Netflix and Nikola.  All 3 stocks are listed on the NASDAX Stock exchange.  The data was gathered from Yahoo Finance:
 
 * [Amazon](https://ca.finance.yahoo.com/quote/AMZN?p=AMZN&.tsrc=fin-srch)
 * [Netflix](https://ca.finance.yahoo.com/quote/NFLX?p=NFLX&.tsrc=fin-srch)
 * [Nikola](https://ca.finance.yahoo.com/quote/NKLA?p=NKLA&.tsrc=fin-srch)
 
-.
 
 ### Data Cleaning 
-The data . </br>
-</br>
-Finally, the data imported into a MySQL Database. 
+The data was downloaded from the above links as .csv files.  These .csv files were imported into a MySQL Database. 
 
+The data for each stock was then extracted and converted into a panda dataframe.
 </br>
 <p align = "center">
 <img width="499" alt="Outcomes_vs_Goals" src="https://user-images.githubusercontent.com/109363759/214461402-53a44d03-c763-4dc9-89d0-183076e9b8e3.png">
