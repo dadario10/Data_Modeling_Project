@@ -1,4 +1,4 @@
-# Selective Stock Market COVID-19 Pandemic vs. Actuality 
+# Selective Stock Market Price Spanning COVID-19 Global Pandemic Predictions vs. Actuality 
 
 ## Table of Contents 
 * [Overview](#overview)
@@ -132,8 +132,6 @@ To visualize our predictions, we took the following steps (See Video below):
 https://user-images.githubusercontent.com/109363759/217385847-191f4e0f-d059-40af-931b-e5c92135e97f.mp4
 
 
-
-
 ## Challenges
 We faced multiple challenges during this project:
 * Finding the right data: Even if there's plenty of available free data for baseball finding the right one was challenging, and it took us time to find the `pybaseball` package while we couldn't find the right data to predict stealing bases. 
@@ -149,7 +147,7 @@ At the end of this project, we were able to create a webpage where user can navi
 ## Team Members
 * <a href="https://github.com/dadario10"> Dario Micucci</a>
 * <a href="https://github.com/"> Brett Chau-dang </a>
-* <a href="https://github.com/"> Justin Butler </a>
+* <a href="https://github.com/JP-Butler"> Justin Butler </a>
 * <a href="https://github.com/"> Rebeca Perez </a>
 * <a href="https://github.com/rbrennan55"> Ron Brennan </a>
 
