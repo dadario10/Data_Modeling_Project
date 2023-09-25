@@ -44,7 +44,7 @@ The data was downloaded from the above links as .csv files.  These .csv files we
 
 The data for each stock was then extracted and converted into a panda dataframe.
 </br>
-<p align = "center">
+<p align = "center"> 
 Fig 1 - Amazon
 </p>
 <p align = "center">
