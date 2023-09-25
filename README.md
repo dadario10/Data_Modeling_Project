@@ -12,7 +12,7 @@
 * [Team Members](#team-members)
 
 ## Overview 
-In this project we created predictive models to predict the 'bounce-back' of stock price for Amazon, Netfix and Nikola stock Open price.  We compared the predictive models to the actual data for the same time period  
+In this project we created predictive models to predict the 'bounce-back' of stock price for Amazon, Netfix and Nikola stock prices.  We compared the predictive models to the actual data for the same time period  
 
 ## Purpose
  The aim of our study is to:
@@ -21,7 +21,6 @@ In this project we created predictive models to predict the 'bounce-back' of sto
 * Compare each of the machine learning predictive models to the actual performance of the selected stocks. 
 *  
 * Use a Tableau HTML, to visualize models' prediction.
-* Use video to assist in the visualization of the data. 
 
 ## Technologies 
 * Python & Pandas
