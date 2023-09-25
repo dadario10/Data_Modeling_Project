@@ -41,7 +41,7 @@ Three stocks specific stocks were chosen - Amazon, Netflix and Nikola.  All 3 st
 
 ### Data Cleaning 
 The data was downloaded from the above links as .csv files.  These .csv files were imported into a MySQL Database. 
-
+![](images/MySQL_ERD.PNG)
 The data for each stock was then extracted and converted into a panda dataframe.
 </br>
 <p align = "center"> 
