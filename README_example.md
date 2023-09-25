@@ -17,10 +17,10 @@ In this project we created predictive models to predict the 'bounce-back' of sto
 ## Purpose
  The aim of our study is to:
 * Extract, clean and pre-process data for models. 
-* Build a machine learning model to predict whether an MLB runner will be able to successfully steal a base based on various aspects.  
-* Build a ridge regression linear model to predict next BsR number (Base Running) for batters. 
-* Build a ridge regression linear model to predict next WAR number (Wins Above Replacement) for pitchers 
-* Use HTML, CSS and Flask to create a webpage and visualize models' prediction.
+* Build multiple machine learning models to predict selective stock market stocks spanning COVID-19 global pandemic and predict the 'bounce back' of the stock vs. actual prefromance of the selective stocks. 
+* Compare each of the machine learning predictive models to the actual performance of the selected stocks. 
+*  
+* Use a Tableau HTML, CSS and Flask to create a webpage and visualize models' prediction.
 * Visualize previous baseball games. 
 
 ## Technologies 
@@ -148,7 +148,7 @@ At the end of this project, we were able to create a webpage where user can navi
 * <a href="https://github.com/dadario10"> Dario Micucci</a>
 * <a href="https://github.com/"> Brett Chau-dang </a>
 * <a href="https://github.com/JP-Butler"> Justin Butler </a>
-* <a href="https://github.com/"> Rebeca Perez </a>
+* <a href="https://github.com/RP8844)"> Rebeca Perez </a>
 * <a href="https://github.com/rbrennan55"> Ron Brennan </a>
 
 -30-
