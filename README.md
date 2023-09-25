@@ -45,13 +45,16 @@ The data was downloaded from the above links as .csv files.  These .csv files we
 The data for each stock was then extracted and converted into a panda dataframe.
 </br>
 <p align = "center"> 
+ ![](images/AmazonSCNSHT.PNG)
 Fig 1 - Amazon
 </p>
 <p align = "center">
+ ![](images/NetflixSCNSHT.PNG)
 Fig 2 - Netflix
 </p>
 <p align = "center">
-Fig 3 - Nikola
+ ![](images/NikolaCNSHT.PNG)
+ Fig 3 - Nikola
 </p>
 
 ## Models 
@@ -61,8 +64,7 @@ The models that were we used:
 To visualise our data and predictions, we used the following:
 
 * Matplot
-* HTML
-* Tableau Dashbaord
+* Tableau HTML Dashbaord 
 * After Effects
 * Premiere Pro
 
@@ -75,7 +77,7 @@ In Summary
 
 ## Team Members
 * <a href="https://github.com/dadario10"> Dario Micucci</a>
-* <a href="https://github.com/"> Brett Chau-dang </a>
+* <a href="https://github.com/bchaudang"> Brett Chau-dang </a>
 * <a href="https://github.com/JP-Butler"> Justin Butler </a>
 * <a href="https://github.com/RP8844)"> Rebeca Perez </a>
 * <a href="https://github.com/rbrennan55"> Ron Brennan </a>
