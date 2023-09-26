@@ -46,14 +46,17 @@ The data for each stock was then extracted and converted into a panda dataframe.
 </br>
 </br>
 ![](images/Amazon_df.png)
+</br>
 Fig 1 - Amazon
 </br>
 </br>
 ![](images/Netflix_df.png)
+</br>
 Fig 2 - Netflix
 </br>
 </br>
 ![](images/Nikola_df.png)
+</br>
  Fig 3 - Nikola
 </br>
 </br>
