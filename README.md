@@ -45,15 +45,15 @@ The data was downloaded from the above links as .csv files.  These .csv files we
 The data for each stock was then extracted and converted into a panda dataframe.
 </br>
 </br>
-![](images/AmazonSCNSHT.PNG)
+![](images/Amazon_df.PNG)
 Fig 1 - Amazon
 </br>
 </br>
-![](images/NetflixSCNSHT.PNG)
+![](images/Netflix_df.PNG)
 Fig 2 - Netflix
 </br>
 </br>
-![](images/NikolaSCNSHT.PNG)
+![](images/Nikola_df.PNG)
  Fig 3 - Nikola
 </br>
 </br>
