@@ -62,7 +62,7 @@ Fig 3 - Nikola Dataframe
 
 ## Models 
 The models that were we used:
-* Amira
+* Arima
 * XGBoost
 
 ## Visualization
