@@ -70,8 +70,6 @@ To visualise our data and predictions, we used the following:
 
 * Matplot
 * Tableau HTML Dashbaord 
-* After Effects
-* Premiere Pro
 
 ## Challenges
 The challenges that we expereinced were:
@@ -84,7 +82,7 @@ In Summary
 * <a href="https://github.com/dadario10"> Dario Micucci</a>
 * <a href="https://github.com/bchaudang"> Brett Chau-dang </a>
 * <a href="https://github.com/JP-Butler"> Justin Butler </a>
-* <a href="https://github.com/RP8844)"> Rebeca Perez </a>
+* <a href="https://github.com/RP8844"> Rebeca Perez </a>
 * <a href="https://github.com/rbrennan55"> Ron Brennan </a>
 
 -30-
