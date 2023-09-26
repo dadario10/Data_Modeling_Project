@@ -19,7 +19,6 @@ The purpose of our study is to:
 * Extract, clean and pre-process data for models. 
 * Build multiple machine learning models to predict selective stock market stocks spanning COVID-19 global pandemic and predict the 'bounce back' of the stock vs. actual prefromance of the selective stocks. 
 * Compare each of the machine learning predictive models to the actual performance of the selected stocks. 
-*  
 * Use a Tableau HTML, to visualize models' prediction.
 
 ## Technologies 
@@ -63,6 +62,8 @@ Fig 3 - Nikola Dataframe
 
 ## Models 
 The models that were we used:
+* Amira
+* XGBoost
 
 ## Visualization
 To visualise our data and predictions, we used the following:
