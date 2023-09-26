@@ -64,6 +64,7 @@ Fig 3 - Nikola Dataframe
 The models that were we used:
 * Arima
 * XGBoost
+* Artificial Neural Network for Regression
 
 ## Visualization
 To visualise our data and predictions, we used the following:
