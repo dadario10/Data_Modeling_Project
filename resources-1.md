@@ -12,7 +12,8 @@ https://pandas.pydata.org/docs/index.html
 
 https://www.investopedia.com/terms/r/rsi.asp
 
-https://www.nirmalbang.com/knowledge-center/50-day-moving-average.html#:~:text=It's%20simply%20a%20security's%20average,indicator%20in%20the%20stock%20market.
+https://www.nirmalbang.com/knowledge-center/50-day-moving-average.html
 
 https://machinelearningmastery.com/feature-importance-and-feature-selection-with-xgboost-in-python/
 
+https://ibkrcampus.com/traders-insight/securities/stocks/what-is-the-relative-strength-index-rsi-in-stocks/
