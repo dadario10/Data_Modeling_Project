@@ -70,8 +70,8 @@ The models that were we used:
 To visualise our data and predictions, we used the following:
 
 * Matplot
-* [Tableau Stock Visualizations Project 4](https://public.tableau.com/app/profile/dario.micucci/viz/StockVisualizationsProject4/VolumeDashboard?publish=yes)
-* Tableau Dashbaord 
+* [Tableau Stock Visualizations Project 4](https://public.tableau.com/app/profile/dario.micucci/viz/StockVisualizationsProject4/VolumeDashboard?publish=yes){:target="_blank"}
+
 
 ## Challenges
 The challenges that we expereinced were:
