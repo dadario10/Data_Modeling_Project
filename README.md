@@ -9,6 +9,7 @@
 * [Visualization](#visualization) 
 * [Challenges](#challenges)
 * [Summary](#summary)
+* [Resources](#resources)
 * [Team Members](#team-members)
 
 ## Overview 
@@ -76,9 +77,22 @@ To visualise our data and predictions, we used the following:
 ## Challenges
 The challenges that we expereinced were:
 
+* Model selections
+* Complexity and shape of the data
+* Limited experience level of Models
+* More advanced engineered features required
 
 ## Summary 
 In Summary
+
+## Resources
+The following resources were leveraged in this project:
+
+* Yahoo Finance - https://ca.finance.yahoo.com/ 
+* Tutors
+* Kaggle
+* MySql
+* Tableau
 
 ## Team Members
 * <a href="https://github.com/dadario10"> Dario Micucci</a>
