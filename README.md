@@ -83,7 +83,7 @@ The challenges that we expereinced were:
 * More advanced engineered features required
 
 ## Summary 
-The question our team set out to answer was the continued impact of COVID-19 on stock market performance:
+The question our team set out to answer was the continued impact of COVID-19 on stock market performance.
 
 **Amazon:** The stocks took a steady rise during and following COVID. After a market correction, Amazon has continued increasing.
 
