@@ -85,9 +85,9 @@ The challenges that we expereinced were:
 ## Summary 
 The question our team set out to answer was the continued impact of COVID-19 on stock market performance:
 
-* Amazon: the stocks took a steady rise during and following covid. But following a market correction, amazon has continued increasing.
-* Netflix: there was a positive linear correlation to the Netflix stocks (increasing), and covid only enhanced this correlation. Since covid however, the stocks have steadily decreased for what we theorize to be bad business decisions. An example of which is Netflix’s decision to crackdown on password sharing. This has caused subscribers to leave the service.
-* Nikola: from 2018 to 2020, these stocks were not performing well (flat line). during covid-19 however, there was an unprecedented and sharp increase, (especially around sept 2020). It’s interesting to note that the stocks took a significant dive again and it appears that they haven’t been able to move from this position.
+**Amazon: The stocks took a steady rise during and following COVID. After a market correction, Amazon has continued increasing.
+**Netflix: There was a positive linear correlation to the Netflix stocks (increasing), and COVID-19 only enhanced this correlation. Since the pandemic, the stocks have steadily decreased for what we theorize to be bad business decisions. An example of this is Netflix’s decision to crackdown on password sharing. This has caused subscribers to leave the service. 
+**Nikola: From 2018 to 2020, these stocks were not performing well (they were flat lined). During COVID-19 however, there was an unprecedented and sharp increase, (especially around Sept. 2020). It’s interesting to note that the stocks took a significant dive again and it appears that they haven’t been able to progress from this position. 
 
 ## Resources
 The following resources were leveraged in this project:
