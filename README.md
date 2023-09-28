@@ -83,7 +83,7 @@ The challenges that we expereinced were:
 * More advanced engineered features required
 
 ## Summary 
-The question our team set out to answer was;The continued impact of COVID-19 on stock market performance:
+The question our team set out to answer was the continued impact of COVID-19 on stock market performance:
 
 * Amazon: the stocks took a steady rise during and following covid. But following a market correction, amazon has continued increasing.
 * Netflix: there was a positive linear correlation to the Netflix stocks (increasing), and covid only enhanced this correlation. Since covid however, the stocks have steadily decreased for what we theorize to be bad business decisions. An example of which is Netflix’s decision to crackdown on password sharing. This has caused subscribers to leave the service.
