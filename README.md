@@ -32,7 +32,7 @@ The purpose of our study is to:
 ## Data
 ### Data Source
 
-Three stocks were chosen; Amazon, Netflix and Nikola.  All three stocks are listed on the NASDAX Stock exchange.  The data was gathered from Yahoo Finance:
+Three stocks were chosen; Amazon, Netflix and Nikola.  All three stocks are listed on the NASDAX Stock Exchange.  The data was gathered from Yahoo Finance:
 
 * [Amazon](https://ca.finance.yahoo.com/quote/AMZN?p=AMZN&.tsrc=fin-srch)
 * [Netflix](https://ca.finance.yahoo.com/quote/NFLX?p=NFLX&.tsrc=fin-srch)
@@ -42,22 +42,22 @@ Three stocks were chosen; Amazon, Netflix and Nikola.  All three stocks are list
 The data was downloaded from the above links as .csv files.  These .csv files were imported into a MySQL Database. 
 ![](images/MySQL_ERD.PNG)
 </br>
-The data for each stock was then extracted and converted into a panda dataframe.
+The data for each stock was then extracted and converted into a Panda DataFrame.
 </br>
 </br>
 ![](images/Amazon_df.png)
 </br>
-Fig 1 - Amazon Dataframe
+Fig 1 - Amazon DataFrame
 </br>
 </br>
 ![](images/Netflix_df.png)
 </br>
-Fig 2 - Netflix Dataframe
+Fig 2 - Netflix DataFrame
 </br>
 </br>
 ![](images/Nikola_df.png)
 </br>
-Fig 3 - Nikola Dataframe
+Fig 3 - Nikola DataFrame
 </br>
 </br>
 
