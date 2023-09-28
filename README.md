@@ -32,7 +32,7 @@ The purpose of our study is to:
 ## Data
 ### Data Source
 
-Three stocks specific stocks were chosen - Amazon, Netflix and Nikola.  All 3 stocks are listed on the NASDAX Stock exchange.  The data was gathered from Yahoo Finance:
+Three stocks were chosen; Amazon, Netflix and Nikola.  All three stocks are listed on the NASDAX Stock exchange.  The data was gathered from Yahoo Finance:
 
 * [Amazon](https://ca.finance.yahoo.com/quote/AMZN?p=AMZN&.tsrc=fin-srch)
 * [Netflix](https://ca.finance.yahoo.com/quote/NFLX?p=NFLX&.tsrc=fin-srch)
