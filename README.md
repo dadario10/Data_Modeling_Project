@@ -62,24 +62,24 @@ Fig 3 - Nikola Dataframe
 </br>
 
 ## Models 
-The models that were we used:
+The models that we used were:
 * Arima
 * XGBoost
 * Artificial Neural Network for Regression
 
 ## Visualization
-To visualise our data and predictions, we used the following:
+To visualize our data and predictions, we used the following:
 
 * [Tableau Stock Visualizations Project 4](https://public.tableau.com/app/profile/dario.micucci/viz/StockVisualizationsProject4/VolumeDashboard?publish=yes)
 * Matplot
 
 
 ## Challenges
-The challenges that we expereinced were:
+The challenges that we experienced were:
 
 * Model selections
 * Complexity and shape of the data
-* Limited experience level of Models
+* Limited experience with level of Models
 * More advanced engineered features required
 
 ## Summary 
