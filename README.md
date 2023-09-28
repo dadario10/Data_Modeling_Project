@@ -13,7 +13,7 @@
 * [Team Members](#team-members)
 
 ## Overview 
-In this project we created predictive models to predict the 'bounce-back' of stock price for Amazon, Netfix and Nikola stock prices.  We compared the predictive models to the actual data for the same time period  
+In this project we created predictive models to predict the 'bounce-back' for Amazon, Netfix and Nikola stock prices.  We compared the predictive models to the actual data for the same time period  
 
 ## Purpose
 The purpose of our study is to:
