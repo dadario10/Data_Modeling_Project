@@ -79,7 +79,7 @@ The challenges that we experienced were:
 
 * Model selections
 * Complexity and shape of the data
-* Limited experience with level of Models
+* Limited experience with level of models
 * More advanced engineered features required
 
 ## Summary 
