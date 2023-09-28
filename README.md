@@ -94,7 +94,7 @@ The question our team set out to answer was the continued impact of COVID-19 on 
 ## Resources
 The following resources were leveraged in this project:
 
-* Yahoo Finance - https://ca.finance.yahoo.com/ 
+* Yahoo Finance
 * Tutors
 * Kaggle
 * MySql
