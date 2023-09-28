@@ -18,7 +18,7 @@ In this project we created predictive models to predict the 'bounce-back' for Am
 ## Purpose
 The purpose of our study is to:
 * Extract, clean and pre-process data for models. 
-* Build multiple machine learning models to predict selective stock market stocks spanning COVID-19 global pandemic and predict the 'bounce back' of the stock vs. actual preformance of the selective stocks. 
+* Build multiple machine learning models to predict selective stock market stocks spanning COVID-19 global pandemic and predict the 'bounce back' of the stock vs. actual performance of the selective stocks. 
 * Compare each of the machine learning predictive models to the actual performance of the selected stocks. 
 * Use a Tableau HTML, to visualize models' prediction.
 
