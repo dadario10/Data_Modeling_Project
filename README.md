@@ -99,6 +99,9 @@ The question our team set out to answer was the continued impact of COVID-19 on 
 - 2018-2020: The company was still in its early stages and its stock was not publicly traded under its formal NKLA ticker until a merger with VectoIQ Corp in 2020.
 - 2020-2023: Following the merger and increased investor interest, Nikola’s stock price surged in the first half of 2020 – which was during COVID. The company faced controversy about its technology and business practices, leading to a sharp decline in the stock price. It has since continued to face volatility and skepticism from investors and analysts alike, hence its decline.
 
+## Conclusion
+Each Model we used all had their benefits and detractors. In short, the type of data that you use, also dictates the model that you use.
+
 ## Resources
 The following resources were leveraged in this project:
 
