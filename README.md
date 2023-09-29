@@ -88,7 +88,9 @@ One can calculate the 50 DMA by adding up the closing prices from the last ten w
 Day 50)/50]. RSI(Relative Strength Index) what is it?  The relative Strength Index (RSI) is a technical indicator that measures the momentum on a
 scale of 0 to 100 over a specific time period Which means, it helps identify whether a stock was overbought or oversold. Investors use the results with price indicators because it can potentially provide a higher quality stock buy or sell signal. 
 
-* Artificial Neural Network for Regression – Seqential model
+* Sequential - Artificial Neural Network for Regression
+
+The model performed very well when given a more normally distributed (positive linear) dataset for training with clear patterns, such as the Close Price of the Netflix dataset. To analyze it numerically a 0.99 Explained Variance Score was achieved. As well a Mean Absolute Error of only 5.09, and given that the data values range from over 200 to just under 500 the model predicts fairly accurately.  Although when trained on the irregularly shaped data with no clear patterns such as the distribution seen in the Nikola Close price training dataset it performed rather poorly. Numerically it produced a Explained Variance Score of -12.21, showing how inaccurate its predictions were on average. As well a  Mean Absolute Error of 3.64, which may seen small, given that the range of the data values are between roughly 1 and 35 the predictions are on average rather inaccurate. In summary, a Sequential model can be fairly affective for a regression problem using time series data given that the distribution of the data when plotted is normal or at minimum that there are clear patterns for the model to sequence in training and learn from. I'd first recommend viewing how the data distributes itself  and searching for patterns. If that criteria is met then a simple sequential model may be a good fit. Otherwise a model with better memory, pattern recognition or ability to work with non linear data would likely be a better fit.
 
   
 
