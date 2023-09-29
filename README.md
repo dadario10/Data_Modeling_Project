@@ -86,10 +86,18 @@ The challenges that we experienced were:
 The question our team set out to answer was the continued impact of COVID-19 on stock market performance.
 
 **Amazon:** The stocks took a steady rise during and following COVID. After a market correction, Amazon has continued increasing.
-
+- 2018-2020: The stock experienced fluctuations because of its strong performance in e-commerce  and cloud computing. 
+- 2020-2023: The company’s stock skyrocketed in 2020 and 2021 as e-comm boomed during the pandemic. However, the company is facing growing pressure to prove that they can sustain the growth they enjoyed during the pandemic, as the economy reopens, and consumers head back to physical stores.
+  
 **Netflix:** There was a positive linear correlation to the Netflix stocks (increasing), and COVID-19 only enhanced this correlation. Since the pandemic, the stocks have steadily decreased for what we theorize to be bad business decisions. An example of this is Netflix’s decision to crackdown on password sharing. This has caused subscribers to leave the service.
+- 2018-2020: Netflix’s stock price was already strong, with share prices climbing steadily.
+- 2020-2023: COVID led to a surge in demand for streaming services as more people were forced to stay home. Netflix benefited from this trend, and its stock reached new highs. Analysts expect Netflix's stock to continue increasing in 2023 and 2024.
+
+
 
 **Nikola:** From 2018 to 2020, these stocks were not performing well (they were flat lined). During COVID-19 however, there was an unprecedented and sharp increase, especially around September 2020. It’s interesting to note that the stocks took a significant dive again and they haven’t been able to progress from this position. 
+- 2018-2020: The company was still in its early stages and its stock was not publicly traded under its formal NKLA ticker until a merger with VectoIQ Corp in 2020.
+- 2020-2023: Following the merger and increased investor interest, Nikola’s stock price surged in the first half of 2020 – which was during COVID. The company faced controversy about its technology and business practices, leading to a sharp decline in the stock price. It has since continued to face volatility and skepticism from investors and analysts alike, hence its decline.
 
 ## Resources
 The following resources were leveraged in this project:
