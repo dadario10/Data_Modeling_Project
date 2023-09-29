@@ -62,7 +62,7 @@ Fig 3 - Nikola DataFrame
 </br>
 
 ## Models 
-The models that we used were:
+The models ethicacy:
 * Arima
 * XGBoost
 * Artificial Neural Network for Regression
