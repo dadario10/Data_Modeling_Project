@@ -86,7 +86,12 @@ How would you calculate this?
 
 One can calculate the 50 DMA by adding up the closing prices from the last ten weeks and divide the sum by the total number of days that is 50 [(Day 1 + Day 2 + Day 3 + ... + Day 49 +
 Day 50)/50]. RSI(Relative Strength Index) what is it?  The relative Strength Index (RSI) is a technical indicator that measures the momentum on a
-scale of 0 to 100 over a specific time period Which means, it helps identify whether a stock was overbought or oversold. Investors use the results with price indicators because it can potentially provide a higher quality stock buy or sell signal. What it does is measure the difference between two moving averages.
+scale of 0 to 100 over a specific time period Which means, it helps identify whether a stock was overbought or oversold. Investors use the results with price indicators because it can potentially provide a higher quality stock buy or sell signal. 
+
+* Artificial Neural Network for Regression – Seqential model
+
+  
+
 
 ## Visualization
 To visualize our data and predictions, we used the following:
